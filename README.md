@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeGoku666 - Dawid Sobków 
+- 👋 Hi, I’m @LeGoku666 (Goku or David) - Dawid Sobków 
 - 👀 I’m interested in Elektronics, Programing and my favorite GameDev
 - 🌱 I’m currently learning everything about GameDev
 - 💞️ I’m looking to collaborate on some Cool GameDev or IT projects
